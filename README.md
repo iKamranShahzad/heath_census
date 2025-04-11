@@ -1,4 +1,4 @@
-# HealthTrack - Health Analysis Dashboard
+# HealthTrack - Health Analysis Dashboard (SNL)
 
 A web application for healthcare professionals to track patient conditions, generate statistical reports, and access health information.
 
